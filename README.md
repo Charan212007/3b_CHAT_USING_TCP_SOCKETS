@@ -1,6 +1,4 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
-# Name: K Charan Teja
-# Register No: 212224040163
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
@@ -35,9 +33,11 @@ while True:
 ```
 ## OUTPUT
 ### client.py
-![alt text](client.png)
+![al![image](https://github.com/user-attachments/assets/19832432-9f60-46d8-9cfa-4df45d62a8b0)
+
 ### server.py
-![alt text](server.png)
+![image](https://github.com/user-attachments/assets/883efcf6-32c3-463b-8106-3396364aa325)
+
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
 created and executed.
